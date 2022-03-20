@@ -1,8 +1,1 @@
-<html>
-<body>
 
-<h1>Hello</h1>
-<p>LOL</p>
-
-</body>
-</html>
